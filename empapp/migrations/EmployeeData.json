@@ -1,0 +1,51 @@
+[	{
+		"Employee ID": 1490,
+		"City Name": "New Delhi",
+		"Salary": 200000,
+		"First Name": "Suresh",
+		"Second Name" : "Prabhu",
+		"Manager Emp Id" :3450
+	},
+	{
+		"Employee ID": 3450,
+		"City Name": "Bangalore",
+		"Salary": 900000,
+		"First Name": "Indira",
+		"Second Name" : "Sharma",
+		"Manager Emp Id" :0
+	},
+	{
+		"Employee ID": 2657,
+		"City Name": "New Delhi",
+		"Salary": 100000,
+		"First Name": "Harish",
+		"Second Name" : "Prasad",
+		"Manager Emp Id" :1490
+	},
+	{
+		"Employee ID": 8490,
+		"City Name": "Mysore",
+		"Salary": 50000,
+		"First Name": "Kamlesh",
+		"Second Name" : "Kumar",
+		"Manager Emp Id" :2657
+	},
+	{
+		"Employee ID": 3867,
+		"City Name": "New Delhi",
+		"Salary": 100000,
+		"First Name": "Pranav",
+		"Second Name" : "Pandey",
+		"Manager Emp Id" :1490
+	},
+	{
+		"Employee ID": 1495,
+		"City Name": "Chennai",
+		"Salary": 50000,
+		"First Name": "Latha",
+		"Second Name" : "Prasad",
+		"Manager Emp Id" :3867
+	}
+	
+	
+]
