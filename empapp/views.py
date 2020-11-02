@@ -3,9 +3,6 @@ from empapp.models import Employee
 from django.db.models import Count, Sum
 from django.http import JsonResponse
 from django.core.exceptions import ObjectDoesNotExist
-import networkx as nx
-import matplotlib.pyplot as py
-from treelib import node, Tree
 
 
 def get_employee_max_direct_subordinates(request):
